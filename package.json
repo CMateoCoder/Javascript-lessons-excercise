@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SWMateo/javascript-lessons-exercise#readme",
   "dependencies": {
-    "axios": "^0.24.0"
+    "axios": "^0.24.0",
+    "mongodb": "^4.4.0"
   }
 }
